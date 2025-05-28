@@ -1,12 +1,17 @@
 **Data Science Salary Fairness Classification Project **
 ---
-** Objective **
+
+* Objective *
 The aim of this project is to classify whether a given salary is fair or underpaid based on features such as job title, location, experience, and other relevant factors. Using deep learning, we explore different neural network architectures to identify an optimal model that achieves strong classification performance.
+
 ---
-** Dataset Description **
+
+* Dataset Description *
 The dataset includes labeled examples indicating salary fairness (fair or underpaid). The input features were preprocessed and transformed into a dense numeric format suitable for neural network input.
+
 ---
-** Model Architectures **
+
+*Model Architectures*
 We experimented with three variations of feedforward neural networks:
 
 Model V1 (Baseline Model)
@@ -43,8 +48,10 @@ Dense Layer: 32 units, ReLU + L2 regularization (λ=0.01)
 Dropout: 0.5
 
 Output Layer: 1 unit, Sigmoid
+
 ---
-** Evaluation Metrics **
+
+* Evaluation Metrics *
 All models were evaluated using:
 
 Test Accuracy
@@ -54,8 +61,10 @@ Training vs. Validation Loss Curves
 Confusion Matrix
 
 ROC Curve and AUC Score
+
 ---
-** Results Summary **
+
+* Results Summary *
 Model V1 (Best Performance)
 Test Accuracy: 88.2%
 
@@ -80,7 +89,10 @@ Model	Test Accuracy	ROC AUC	Notes
 Model V1	88.2%	0.94	Best-performing architecture
 Model V2	51.0%	~0.5	No meaningful learning
 Model V3	51.0%	~0.5	Training stable, but weak
+
 ---
-** Conclusion **
+
+* Conclusion *
 Model V1 outperformed the deeper and regularized variations. It demonstrated strong classification performance, good generalization, and reliable convergence during training. Models V2 and V3 failed to show improvements and hovered around random-guess accuracy.
+
 ---
