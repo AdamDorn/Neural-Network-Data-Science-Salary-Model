@@ -1,12 +1,12 @@
 **Data Science Salary Fairness Classification Project **
 ---
 
-* Objective *
+* Objective
 The aim of this project is to classify whether a given salary is fair or underpaid based on features such as job title, location, experience, and other relevant factors. Using deep learning, we explore different neural network architectures to identify an optimal model that achieves strong classification performance.
 
 ---
 
-* Dataset Description *
+* Dataset Description
 The dataset includes labeled examples indicating salary fairness (fair or underpaid). The input features were preprocessed and transformed into a dense numeric format suitable for neural network input.
 
 ---
