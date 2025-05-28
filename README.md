@@ -11,7 +11,7 @@ The dataset includes labeled examples indicating salary fairness (fair or underp
 
 ---
 
-*Model Architectures*
+*Model Architectures
 We experimented with three variations of feedforward neural networks:
 
 Model V1 (Baseline Model)
@@ -51,7 +51,7 @@ Output Layer: 1 unit, Sigmoid
 
 ---
 
-* Evaluation Metrics *
+* Evaluation Metrics
 All models were evaluated using:
 
 Test Accuracy
@@ -64,7 +64,7 @@ ROC Curve and AUC Score
 
 ---
 
-* Results Summary *
+* Results Summary
 Model V1 (Best Performance)
 Test Accuracy: 88.2%
 
@@ -92,7 +92,7 @@ Model V3	51.0%	~0.5	Training stable, but weak
 
 ---
 
-* Conclusion *
+* Conclusion
 Model V1 outperformed the deeper and regularized variations. It demonstrated strong classification performance, good generalization, and reliable convergence during training. Models V2 and V3 failed to show improvements and hovered around random-guess accuracy.
 
 ---
