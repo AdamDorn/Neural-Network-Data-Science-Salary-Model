@@ -65,7 +65,7 @@ All models were evaluated using:
 ---
 
 ### **Conclusion**  
-Model V1 outperformed the deeper and regularized variations by demonstrating strong classification performance, good generalization, and reliable training convergence. Models V2 and
+Model V1 outperformed the deeper and regularized variations by demonstrating strong classification performance, good generalization, and reliable training convergence. Models V2 and V3 failed to improve and performed close to random guessing.
 
 ---
 
