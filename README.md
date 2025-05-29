@@ -66,3 +66,10 @@ All models were evaluated using:
 
 ### **Conclusion**  
 Model V1 outperformed the deeper and regularized variations by demonstrating strong classification performance, good generalization, and reliable training convergence. Models V2 and
+
+---
+
+### **Dataset Source**  
+“The Global AI, ML, Data Science Salary (2020–2025)” by Samith Sachidanandan  
+Available on Kaggle: [https://www.kaggle.com/datasets/samithsachidanandan/the-global-ai-ml-data-science-salary-for-2025](https://www.kaggle.com/datasets/samithsachidanandan/the-global-ai-ml-data-science-salary-for-2025)  
+Licensed under CC0 Public Domain.
