@@ -96,3 +96,6 @@ Model V3	51.0%	~0.5	Training stable, but weak
 Model V1 outperformed the deeper and regularized variations. It demonstrated strong classification performance, good generalization, and reliable convergence during training. Models V2 and V3 failed to show improvements and hovered around random-guess accuracy.
 
 ---
+Dataset: “The Global AI, ML, Data Science Salary (2020–2025)” by Samith Sachidanandan, available on Kaggle (https://www.kaggle.com/datasets/samithsachidanandan/the-global-ai-ml-data-science-salary-for-2025), licensed under CC0 Public Domain.
+
+---
